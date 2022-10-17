@@ -84,6 +84,11 @@ section > article:hover {
     background-image: url("wrinkled-g897eda3c1_1920.jpg");
 }
 
+section > article > h2 {
+    text-align: left;
+    font-size: 1.2rem;
+}
+
 /*------------------------------------------------------------------------------*/
 
 nav {
