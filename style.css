@@ -45,8 +45,8 @@ main > section:nth-last-of-type(1) {
 main > section {
     margin-right: 45px;
     display: grid;
-    max-width: 1050px;
-    grid-template-columns: 75px minmax(auto, 750px) 75px;
+    max-width: 950px;
+    grid-template-columns: auto minmax(auto, 750px) auto;
     grid-column-gap: 25px;
 }
 
@@ -90,7 +90,7 @@ nav {
     margin-left: 45px;
     margin-right: 45px;
     padding-top: 15px;
-    max-width: 1050px;
+    max-width: 950px;
 }
 
 nav > span {
